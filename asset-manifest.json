@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a7a19e8.chunk.css",
+    "main.js": "/static/js/main.d484ab1e.chunk.js",
+    "main.js.map": "/static/js/main.d484ab1e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0ebec4ea.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0ebec4ea.js.map",
+    "static/js/2.4b2d3efa.chunk.js": "/static/js/2.4b2d3efa.chunk.js",
+    "static/js/2.4b2d3efa.chunk.js.map": "/static/js/2.4b2d3efa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.404a4c4c12b58e9b75dd5ed9b1b93284.js": "/precache-manifest.404a4c4c12b58e9b75dd5ed9b1b93284.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0a7a19e8.chunk.css.map": "/static/css/main.0a7a19e8.chunk.css.map",
+    "static/media/style.scss": "/static/media/BG pattern.f8b38794.svg",
+    "static/media/back.svg": "/static/media/back.eeccebcc.svg",
+    "static/media/eishow-lite-v02.webm": "/static/media/eishow-lite-v02.0521007e.webm",
+    "static/media/eishow-lite-v02.vtt": "/static/media/eishow-lite-v02.68be149a.vtt",
+    "static/media/logo-shadow.svg": "/static/media/logo-shadow.8e15adf2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ebec4ea.js",
+    "static/js/2.4b2d3efa.chunk.js",
+    "static/css/main.0a7a19e8.chunk.css",
+    "static/js/main.d484ab1e.chunk.js"
+  ]
+}
