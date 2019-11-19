@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a7a19e8.chunk.css",
+    "main.css": "/static/css/main.875d4cf8.chunk.css",
     "main.js": "/static/js/main.20c14bde.chunk.js",
     "main.js.map": "/static/js/main.20c14bde.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0ebec4ea.js",
@@ -8,9 +8,9 @@
     "static/js/2.4630f358.chunk.js": "/static/js/2.4630f358.chunk.js",
     "static/js/2.4630f358.chunk.js.map": "/static/js/2.4630f358.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.849c24128efcc8a94250eed756642c53.js": "/precache-manifest.849c24128efcc8a94250eed756642c53.js",
+    "precache-manifest.8587fce5a615bd9788cd035dca4b8c33.js": "/precache-manifest.8587fce5a615bd9788cd035dca4b8c33.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0a7a19e8.chunk.css.map": "/static/css/main.0a7a19e8.chunk.css.map",
+    "static/css/main.875d4cf8.chunk.css.map": "/static/css/main.875d4cf8.chunk.css.map",
     "static/media/style.scss": "/static/media/BG pattern.f8b38794.svg",
     "static/media/back.svg": "/static/media/back.eeccebcc.svg",
     "static/media/eishow-lite-v03.vtt": "/static/media/eishow-lite-v03.bfb68b0b.vtt",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.0ebec4ea.js",
     "static/js/2.4630f358.chunk.js",
-    "static/css/main.0a7a19e8.chunk.css",
+    "static/css/main.875d4cf8.chunk.css",
     "static/js/main.20c14bde.chunk.js"
   ]
 }
